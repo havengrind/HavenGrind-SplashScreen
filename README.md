@@ -18,7 +18,7 @@ A lightweight, robust Unity Editor extension designed to standardise and enforce
 <img width="182" height="136" alt="Screenshot 2025-12-24 at 22 46 55" src="https://github.com/user-attachments/assets/cacbf2f4-8f12-4e7f-a666-4f27fe4e70c3" />
 
 4. Enter the following URL:
-   `https://github.com/havengrind/webgl-automation.git`
+   `https://github.com/havengrind/HavenGrind-SplashScreen.git`
 5. Click **Add**.
 
 ## How It Works
