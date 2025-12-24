@@ -1,0 +1,12 @@
+{
+    "name": "com.havengrind.webgl-automation",
+    "version": "1.0.0",
+    "displayName": "Haven Grind: WebGL Setup",
+    "description": "WebGL setup automation with custom splash screen",
+    "unity": "2022.1",
+    "author": {
+        "name": "Haven Grind",
+        "email": "havengrind@gmail.com",
+        "url": "studio.hagegames.com"
+    }
+}
